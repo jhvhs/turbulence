@@ -7,8 +7,8 @@ import (
 	bosherr "github.com/cloudfoundry/bosh-utils/errors"
 	boshsys "github.com/cloudfoundry/bosh-utils/system"
 
-	"github.com/cppforlife/turbulence/director"
-	"github.com/cppforlife/turbulence/incident/reporter"
+	"github.com/jhvhs/turbulence/director"
+	"github.com/jhvhs/turbulence/incident/reporter"
 )
 
 type Config struct {

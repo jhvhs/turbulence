@@ -3,9 +3,9 @@ package controllers
 import (
 	boshlog "github.com/cloudfoundry/bosh-utils/logger"
 
-	"github.com/cppforlife/turbulence/incident"
-	"github.com/cppforlife/turbulence/scheduledinc"
-	"github.com/cppforlife/turbulence/tasks"
+	"github.com/jhvhs/turbulence/incident"
+	"github.com/jhvhs/turbulence/scheduledinc"
+	"github.com/jhvhs/turbulence/tasks"
 )
 
 type FactoryRepos interface {

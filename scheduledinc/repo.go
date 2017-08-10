@@ -8,7 +8,7 @@ import (
 	boshlog "github.com/cloudfoundry/bosh-utils/logger"
 	boshuuid "github.com/cloudfoundry/bosh-utils/uuid"
 
-	"github.com/cppforlife/turbulence/incident"
+	"github.com/jhvhs/turbulence/incident"
 )
 
 func (e NotFoundError) Error() string {

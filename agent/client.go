@@ -8,7 +8,7 @@ import (
 	boshhttp "github.com/cloudfoundry/bosh-utils/httpclient"
 	boshlog "github.com/cloudfoundry/bosh-utils/logger"
 
-	"github.com/cppforlife/turbulence/tasks"
+	"github.com/jhvhs/turbulence/tasks"
 )
 
 type Client struct {

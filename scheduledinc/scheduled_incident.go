@@ -4,7 +4,7 @@ import (
 	bosherr "github.com/cloudfoundry/bosh-utils/errors"
 	boshlog "github.com/cloudfoundry/bosh-utils/logger"
 
-	"github.com/cppforlife/turbulence/incident"
+	"github.com/jhvhs/turbulence/incident"
 )
 
 type ScheduledIncident struct {

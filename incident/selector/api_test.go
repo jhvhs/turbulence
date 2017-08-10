@@ -6,7 +6,7 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	. "github.com/cppforlife/turbulence/incident/selector"
+	. "github.com/jhvhs/turbulence/incident/selector"
 )
 
 type SimpleInstance struct {

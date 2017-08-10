@@ -7,8 +7,8 @@ import (
 
 	bosherr "github.com/cloudfoundry/bosh-utils/errors"
 
-	"github.com/cppforlife/turbulence/incident/reporter"
-	"github.com/cppforlife/turbulence/tasks"
+	"github.com/jhvhs/turbulence/incident/reporter"
+	"github.com/jhvhs/turbulence/tasks"
 )
 
 type TaskImpl struct {

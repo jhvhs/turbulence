@@ -4,8 +4,8 @@ import (
 	boshlog "github.com/cloudfoundry/bosh-utils/logger"
 	martrend "github.com/martini-contrib/render"
 
-	"github.com/cppforlife/turbulence/incident"
-	"github.com/cppforlife/turbulence/scheduledinc"
+	"github.com/jhvhs/turbulence/incident"
+	"github.com/jhvhs/turbulence/scheduledinc"
 )
 
 type HomeController struct {

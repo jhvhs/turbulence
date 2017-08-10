@@ -15,11 +15,11 @@ import (
 	martauth "github.com/martini-contrib/auth"
 	martrend "github.com/martini-contrib/render"
 
-	ctrls "github.com/cppforlife/turbulence/controllers"
-	"github.com/cppforlife/turbulence/director"
-	"github.com/cppforlife/turbulence/incident"
-	"github.com/cppforlife/turbulence/incident/reporter"
-	"github.com/cppforlife/turbulence/scheduledinc"
+	ctrls "github.com/jhvhs/turbulence/controllers"
+	"github.com/jhvhs/turbulence/director"
+	"github.com/jhvhs/turbulence/incident"
+	"github.com/jhvhs/turbulence/incident/reporter"
+	"github.com/jhvhs/turbulence/scheduledinc"
 )
 
 const mainLogTag = "main"

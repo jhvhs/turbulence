@@ -6,8 +6,8 @@ import (
 
 	bosherr "github.com/cloudfoundry/bosh-utils/errors"
 
-	"github.com/cppforlife/turbulence/incident"
-	"github.com/cppforlife/turbulence/tasks"
+	"github.com/jhvhs/turbulence/incident"
+	"github.com/jhvhs/turbulence/tasks"
 )
 
 type IncidentImpl struct {

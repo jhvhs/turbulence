@@ -7,8 +7,8 @@ import (
 	boshlog "github.com/cloudfoundry/bosh-utils/logger"
 	boshsys "github.com/cloudfoundry/bosh-utils/system"
 
-	"github.com/cppforlife/turbulence/tasks"
-	"github.com/cppforlife/turbulence/tasks/monit"
+	"github.com/jhvhs/turbulence/tasks"
+	"github.com/jhvhs/turbulence/tasks/monit"
 )
 
 type Agent struct {

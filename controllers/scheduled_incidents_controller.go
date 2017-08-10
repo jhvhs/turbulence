@@ -8,7 +8,7 @@ import (
 	mart "github.com/go-martini/martini"
 	martrend "github.com/martini-contrib/render"
 
-	"github.com/cppforlife/turbulence/scheduledinc"
+	"github.com/jhvhs/turbulence/scheduledinc"
 )
 
 type ScheduledIncidentsController struct {

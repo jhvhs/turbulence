@@ -4,11 +4,11 @@ import (
 	boshlog "github.com/cloudfoundry/bosh-utils/logger"
 	boshuuid "github.com/cloudfoundry/bosh-utils/uuid"
 
-	"github.com/cppforlife/turbulence/director"
-	"github.com/cppforlife/turbulence/incident"
-	"github.com/cppforlife/turbulence/incident/reporter"
-	"github.com/cppforlife/turbulence/scheduledinc"
-	"github.com/cppforlife/turbulence/tasks"
+	"github.com/jhvhs/turbulence/director"
+	"github.com/jhvhs/turbulence/incident"
+	"github.com/jhvhs/turbulence/incident/reporter"
+	"github.com/jhvhs/turbulence/scheduledinc"
+	"github.com/jhvhs/turbulence/tasks"
 )
 
 type Repos struct {
